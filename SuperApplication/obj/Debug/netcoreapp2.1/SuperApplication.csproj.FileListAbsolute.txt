@@ -1,0 +1,9 @@
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperApplication\obj\Debug\netcoreapp2.1\SuperApplication.csprojAssemblyReference.cache
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperApplication\obj\Debug\netcoreapp2.1\SuperApplication.csproj.CoreCompileInputs.cache
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperApplication\obj\Debug\netcoreapp2.1\SuperApplication.AssemblyInfoInputs.cache
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperApplication\obj\Debug\netcoreapp2.1\SuperApplication.AssemblyInfo.cs
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperApplication\bin\Debug\netcoreapp2.1\SuperApplication.deps.json
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperApplication\bin\Debug\netcoreapp2.1\SuperApplication.dll
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperApplication\bin\Debug\netcoreapp2.1\SuperApplication.pdb
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperApplication\obj\Debug\netcoreapp2.1\SuperApplication.dll
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperApplication\obj\Debug\netcoreapp2.1\SuperApplication.pdb

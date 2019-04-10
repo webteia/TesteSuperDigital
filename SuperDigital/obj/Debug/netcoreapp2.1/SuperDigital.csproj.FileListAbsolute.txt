@@ -1,0 +1,17 @@
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\bin\Debug\netcoreapp2.1\SuperDigital.deps.json
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\bin\Debug\netcoreapp2.1\SuperDigital.runtimeconfig.json
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\bin\Debug\netcoreapp2.1\SuperDigital.runtimeconfig.dev.json
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\bin\Debug\netcoreapp2.1\SuperDigital.dll
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\bin\Debug\netcoreapp2.1\SuperDigital.pdb
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\bin\Debug\netcoreapp2.1\SuperApplication.dll
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\bin\Debug\netcoreapp2.1\SuperApplication.pdb
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\obj\Debug\netcoreapp2.1\SuperDigital.csprojAssemblyReference.cache
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\obj\Debug\netcoreapp2.1\SuperDigital.csproj.CoreCompileInputs.cache
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\obj\Debug\netcoreapp2.1\SuperDigital.RazorAssemblyInfo.cache
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\obj\Debug\netcoreapp2.1\SuperDigital.RazorAssemblyInfo.cs
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\obj\Debug\netcoreapp2.1\SuperDigital.AssemblyInfoInputs.cache
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\obj\Debug\netcoreapp2.1\SuperDigital.AssemblyInfo.cs
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\obj\Debug\netcoreapp2.1\SuperDigital.RazorTargetAssemblyInfo.cache
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\obj\Debug\netcoreapp2.1\SuperDigital.csproj.CopyComplete
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\obj\Debug\netcoreapp2.1\SuperDigital.dll
+C:\Projetos\SuperDigital Teste\SuperDigital\SuperDigital\obj\Debug\netcoreapp2.1\SuperDigital.pdb
